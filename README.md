@@ -1,4 +1,4 @@
-editado
+editado en branch charlas
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
